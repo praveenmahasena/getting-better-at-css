@@ -27,5 +27,5 @@ This repo is my way to stay accountable, track progress, and build a better fron
 ## Setup (for viewing locally)
 
 ```bash
-git clone https://github.com/your-username/this-repo.git
-cd this-repo
+git clone https://github.com//praveenmahasena/getting-better-at-css
+cd getting-better-at-css

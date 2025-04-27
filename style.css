@@ -1,0 +1,50 @@
+*,
+*::before,
+*::after {
+  margin: 0px;
+}
+
+html,
+body {
+  width: 100wh;
+}
+
+body {
+  background: #4f3222;
+}
+
+.outer {
+  padding: 2% 0;
+  border: 1px solid black;
+  background: white;
+  border-radius: 15px;
+  width: 60%;
+  margin: auto;
+}
+
+.inner {
+  width: 90%;
+  margin: auto;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #c83349;
+  margin-top: 10px;
+}
+
+.banana {
+  text-transform: uppercase;
+  font-weight: 100;
+  margin-bottom: 50px;
+}
+
+button{
+  background: #4f3222;
+    color:white;
+    text-transform: uppercase;
+    padding:2%;
+    font-weight: 600;
+    margin-top:20px;
+    font-size:20px;
+}
